@@ -1,0 +1,1 @@
+console.log("Hello World with chó béo 2k6 with javascript")
